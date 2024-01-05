@@ -4,6 +4,8 @@ Modular full-stack solution designed to empower communities and clubs by establi
 
 Civicoin provides the ability to create your own local financial systems where administrators issue coins and participants exchange. It could be very useful for communities that want to start the local economy, or for closed clubs with paid memberships that can be bought with virtual coins accrued for some activity.
 
+[Platform’s entities](https://github.com/civicoin/docs/blob/main/entities.md)
+
 ## Architecture and Services
 
 ### Interfaces
