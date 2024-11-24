@@ -16,6 +16,6 @@ The main service and entry point — **Gateway**. It is the platform itself. Han
 
 Cores manage coin transactions. Initially there is only one — the centralized **Core**. It processes transactions, holds and statements. In fact, cores are just internal services that are selected for use for each system: centralized, decentralized with blockchain, with external interactions, etc.
 
-![image](https://github.com/civicoin/.github/assets/60748898/b3f6f7d7-1779-4a16-8452-20ec6d19b2ac)
+![image](https://github.com/user-attachments/assets/0c776042-df75-42cd-9b56-8c9cf7388e56)
 
 ---
