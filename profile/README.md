@@ -16,6 +16,6 @@ The main service and entry point — **Gateway**. It is the platform itself. Han
 
 Cores manage coin transactions. Initially there is only one — the centralized **Core**. It processes transactions, holds and statements. In fact, cores are just internal services that are selected for use for each system: centralized, decentralized with blockchain, with external interactions, etc.
 
-![image](https://github.com/user-attachments/assets/0c776042-df75-42cd-9b56-8c9cf7388e56)
+![image](https://github.com/user-attachments/assets/8b0e400d-1e31-490c-bcf5-8ff88d0d88e4)
 
 ---
